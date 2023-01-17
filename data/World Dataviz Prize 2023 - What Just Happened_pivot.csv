@@ -1,0 +1,924 @@
+topic,data,year,value,metric,ten_year_change
+Tropical Diseases,global deaths,2009,2051672,,
+Tropical Diseases,global deaths,2010,2016434,,
+Tropical Diseases,global deaths,2011,1960756,,
+Tropical Diseases,global deaths,2012,1895419,,
+Tropical Diseases,global deaths,2013,1814474,,
+Tropical Diseases,global deaths,2014,NA,,
+Tropical Diseases,global deaths,2015,1699509,,
+Tropical Diseases,global deaths,2016,1656896,,
+Tropical Diseases,global deaths,2017,NA,,
+Tropical Diseases,global deaths,2018,NA,,
+Tropical Diseases,global deaths,2019,NA,,
+Tropical Diseases,global deaths,2020,NA,,
+Tropical Diseases,global deaths,2021,NA,,
+Tuberculosis,global cases,2009,1417403,,
+Tuberculosis,global cases,2010,1386717,,
+Tuberculosis,global cases,2011,1353969,,
+Tuberculosis,global cases,2012,1321313,,
+Tuberculosis,global cases,2013,1289369,,
+Tuberculosis,global cases,2014,1261016,,
+Tuberculosis,global cases,2015,1236143,,
+Tuberculosis,global cases,2016,1213057,,
+Tuberculosis,global cases,2017,NA,,
+Tuberculosis,global cases,2018,NA,,
+Tuberculosis,global cases,2019,NA,,
+Tuberculosis,global cases,2020,NA,,
+Tuberculosis,global cases,2021,NA,,
+Tuberculosis,incidence,2009,NA,"per 100,000 people",-18%
+Tuberculosis,incidence,2010,161,"per 100,000 people",-18%
+Tuberculosis,incidence,2011,158,"per 100,000 people",-18%
+Tuberculosis,incidence,2012,155,"per 100,000 people",-18%
+Tuberculosis,incidence,2013,152,"per 100,000 people",-18%
+Tuberculosis,incidence,2014,149,"per 100,000 people",-18%
+Tuberculosis,incidence,2015,145,"per 100,000 people",-18%
+Tuberculosis,incidence,2016,142,"per 100,000 people",-18%
+Tuberculosis,incidence,2017,138,"per 100,000 people",-18%
+Tuberculosis,incidence,2018,135,"per 100,000 people",-18%
+Tuberculosis,incidence,2019,133,"per 100,000 people",-18%
+Tuberculosis,incidence,2020,130,"per 100,000 people",-18%
+Tuberculosis,incidence,2021,127,"per 100,000 people",-18%
+Malaria,Incidence,2009,70.6,"per 1,000 people at risk",-11%
+Malaria,Incidence,2010,69.5,"per 1,000 people at risk",-11%
+Malaria,Incidence,2011,66.5,"per 1,000 people at risk",-11%
+Malaria,Incidence,2012,64.3,"per 1,000 people at risk",-11%
+Malaria,Incidence,2013,61.8,"per 1,000 people at risk",-11%
+Malaria,Incidence,2014,59.8,"per 1,000 people at risk",-11%
+Malaria,Incidence,2015,58.9,"per 1,000 people at risk",-11%
+Malaria,Incidence,2016,58.7,"per 1,000 people at risk",-11%
+Malaria,Incidence,2017,59.2,"per 1,000 people at risk",-11%
+Malaria,Incidence,2018,57.2,"per 1,000 people at risk",-11%
+Malaria,Incidence,2019,56.3,"per 1,000 people at risk",-11%
+Malaria,Incidence,2020,59.5,"per 1,000 people at risk",-11%
+Malaria,Incidence,2021,NA,"per 1,000 people at risk",-11%
+Malaria,deaths,2009,918165,,
+Malaria,deaths,2010,910161,,
+Malaria,deaths,2011,868828,,
+Malaria,deaths,2012,806421,,
+Malaria,deaths,2013,752017,,
+Malaria,deaths,2014,724533,,
+Malaria,deaths,2015,703065,,
+Malaria,deaths,2016,660569,,
+Malaria,deaths,2017,629854,,
+Malaria,deaths,2018,631744,,
+Malaria,deaths,2019,643381,,
+Malaria,deaths,2020,NA,,
+Malaria,deaths,2021,NA,,
+Polio,Incidence,2009,1787,reported cases,-54%
+Polio,Incidence,2010,1412,reported cases,-54%
+Polio,Incidence,2011,716,reported cases,-54%
+Polio,Incidence,2012,293,reported cases,-54%
+Polio,Incidence,2013,481,reported cases,-54%
+Polio,Incidence,2014,415,reported cases,-54%
+Polio,Incidence,2015,106,reported cases,-54%
+Polio,Incidence,2016,42,reported cases,-54%
+Polio,Incidence,2017,118,reported cases,-54%
+Polio,Incidence,2018,138,reported cases,-54%
+Polio,Incidence,2019,554,reported cases,-54%
+Polio,Incidence,2020,1253,reported cases,-54%
+Polio,Incidence,2021,649,reported cases,-54%
+Polio,deaths,2009,NA,reported cases,
+Polio,deaths,2010,NA,reported cases,
+Polio,deaths,2011,NA,reported cases,
+Polio,deaths,2012,NA,reported cases,
+Polio,deaths,2013,NA,reported cases,
+Polio,deaths,2014,NA,reported cases,
+Polio,deaths,2015,NA,reported cases,
+Polio,deaths,2016,NA,reported cases,
+Polio,deaths,2017,NA,reported cases,
+Polio,deaths,2018,NA,reported cases,
+Polio,deaths,2019,NA,reported cases,
+Polio,deaths,2020,NA,reported cases,
+Polio,deaths,2021,NA,reported cases,
+HIV / AIDS,Incidence (new cases),2009,2399929,,
+HIV / AIDS,Incidence (new cases),2010,2370918,,
+HIV / AIDS,Incidence (new cases),2011,2342046,,
+HIV / AIDS,Incidence (new cases),2012,2314238,,
+HIV / AIDS,Incidence (new cases),2013,2285709,,
+HIV / AIDS,Incidence (new cases),2014,2265234,,
+HIV / AIDS,Incidence (new cases),2015,2243665,,
+HIV / AIDS,Incidence (new cases),2016,2196714,,
+HIV / AIDS,Incidence (new cases),2017,2131659,,
+HIV / AIDS,Incidence (new cases),2018,2042488,,
+HIV / AIDS,Incidence (new cases),2019,1989282,,
+HIV / AIDS,Incidence (new cases),2020,NA,,
+HIV / AIDS,Incidence (new cases),2021,NA,,
+HIV / AIDS,"deaths per 100,000",2009,20.62,,
+HIV / AIDS,"deaths per 100,000",2010,19.09,,
+HIV / AIDS,"deaths per 100,000",2011,17.71,,
+HIV / AIDS,"deaths per 100,000",2012,16.32,,
+HIV / AIDS,"deaths per 100,000",2013,15.129999999999999,,
+HIV / AIDS,"deaths per 100,000",2014,14.219999999999999,,
+HIV / AIDS,"deaths per 100,000",2015,13.47,,
+HIV / AIDS,"deaths per 100,000",2016,12.850000000000001,,
+HIV / AIDS,"deaths per 100,000",2017,12.06,,
+HIV / AIDS,"deaths per 100,000",2018,11.219999999999999,,
+HIV / AIDS,"deaths per 100,000",2019,10.719999999999999,,
+HIV / AIDS,"deaths per 100,000",2020,NA,,
+HIV / AIDS,"deaths per 100,000",2021,NA,,
+HIV / AIDS,total deaths,2009,1.45,million deaths,
+HIV / AIDS,total deaths,2010,1.37,million deaths,
+HIV / AIDS,total deaths,2011,1.28,million deaths,
+HIV / AIDS,total deaths,2012,1.2,million deaths,
+HIV / AIDS,total deaths,2013,1.1300000000000001,million deaths,
+HIV / AIDS,total deaths,2014,1.07,million deaths,
+HIV / AIDS,total deaths,2015,1.03,million deaths,
+HIV / AIDS,total deaths,2016,0.97,million deaths,
+HIV / AIDS,total deaths,2017,0.9500000000000001,million deaths,
+HIV / AIDS,total deaths,2018,0.89,million deaths,
+HIV / AIDS,total deaths,2019,0.8600000000000001,million deaths,
+HIV / AIDS,total deaths,2020,NA,million deaths,
+HIV / AIDS,total deaths,2021,NA,million deaths,
+Tuberculosis,Incidence,2009,161,"per 100,000 people",-18%
+Tuberculosis,Incidence,2010,158,"per 100,000 people",-18%
+Tuberculosis,Incidence,2011,155,"per 100,000 people",-18%
+Tuberculosis,Incidence,2012,152,"per 100,000 people",-18%
+Tuberculosis,Incidence,2013,149,"per 100,000 people",-18%
+Tuberculosis,Incidence,2014,145,"per 100,000 people",-18%
+Tuberculosis,Incidence,2015,142,"per 100,000 people",-18%
+Tuberculosis,Incidence,2016,138,"per 100,000 people",-18%
+Tuberculosis,Incidence,2017,135,"per 100,000 people",-18%
+Tuberculosis,Incidence,2018,133,"per 100,000 people",-18%
+Tuberculosis,Incidence,2019,130,"per 100,000 people",-18%
+Tuberculosis,Incidence,2020,127,"per 100,000 people",-18%
+Tuberculosis,Incidence,2021,NA,"per 100,000 people",-18%
+Tuberculosis,deaths,2009,21,"per 100,000 people",-15%
+Tuberculosis,deaths,2010,21,"per 100,000 people",-15%
+Tuberculosis,deaths,2011,20,"per 100,000 people",-15%
+Tuberculosis,deaths,2012,19,"per 100,000 people",-15%
+Tuberculosis,deaths,2013,19,"per 100,000 people",-15%
+Tuberculosis,deaths,2014,18,"per 100,000 people",-15%
+Tuberculosis,deaths,2015,18,"per 100,000 people",-15%
+Tuberculosis,deaths,2016,17,"per 100,000 people",-15%
+Tuberculosis,deaths,2017,17,"per 100,000 people",-15%
+Tuberculosis,deaths,2018,16,"per 100,000 people",-15%
+Tuberculosis,deaths,2019,16,"per 100,000 people",-15%
+Tuberculosis,deaths,2020,17,"per 100,000 people",-15%
+Tuberculosis,deaths,2021,NA,"per 100,000 people",-15%
+Countries Who've Eradicated Malaria,no. of countries,2009,65,,51%
+Countries Who've Eradicated Malaria,no. of countries,2010,71,,51%
+Countries Who've Eradicated Malaria,no. of countries,2011,72,,51%
+Countries Who've Eradicated Malaria,no. of countries,2012,98,,51%
+Countries Who've Eradicated Malaria,no. of countries,2013,98,,51%
+Countries Who've Eradicated Malaria,no. of countries,2014,98,,51%
+Countries Who've Eradicated Malaria,no. of countries,2015,99,,51%
+Countries Who've Eradicated Malaria,no. of countries,2016,101,,51%
+Countries Who've Eradicated Malaria,no. of countries,2017,101,,51%
+Countries Who've Eradicated Malaria,no. of countries,2018,103,,51%
+Countries Who've Eradicated Malaria,no. of countries,2019,105,,51%
+Countries Who've Eradicated Malaria,no. of countries,2020,105,,51%
+Countries Who've Eradicated Malaria,no. of countries,2021,107,,51%
+Smoking,% smoking,2009,NA,,-17%
+Smoking,% smoking,2010,27.8,,-17%
+Smoking,% smoking,2011,NA,,-17%
+Smoking,% smoking,2012,NA,,-17%
+Smoking,% smoking,2013,NA,,-17%
+Smoking,% smoking,2014,NA,,-17%
+Smoking,% smoking,2015,25.2,,-17%
+Smoking,% smoking,2016,NA,,-17%
+Smoking,% smoking,2017,NA,,-17%
+Smoking,% smoking,2018,23.4,,-17%
+Smoking,% smoking,2019,23.4,,-17%
+Smoking,% smoking,2020,23,,-17%
+Smoking,% smoking,2021,NA,,-17%
+Deaths from Smoking,"deaths per 100,000 people",2009,116,,
+Deaths from Smoking,"deaths per 100,000 people",2010,113,,
+Deaths from Smoking,"deaths per 100,000 people",2011,111,,
+Deaths from Smoking,"deaths per 100,000 people",2012,108,,
+Deaths from Smoking,"deaths per 100,000 people",2013,106,,
+Deaths from Smoking,"deaths per 100,000 people",2014,103,,
+Deaths from Smoking,"deaths per 100,000 people",2015,102,,
+Deaths from Smoking,"deaths per 100,000 people",2016,99.79,,
+Deaths from Smoking,"deaths per 100,000 people",2017,97.79,,
+Deaths from Smoking,"deaths per 100,000 people",2018,96.59,,
+Deaths from Smoking,"deaths per 100,000 people",2019,95.61,,
+Deaths from Smoking,"deaths per 100,000 people",2020,NA,,
+Deaths from Smoking,"deaths per 100,000 people",2021,NA,,
+Cancer Survival Rates,,2009,NA,,
+Cancer Survival Rates,,2010,NA,,
+Cancer Survival Rates,,2011,NA,,
+Cancer Survival Rates,,2012,NA,,
+Cancer Survival Rates,,2013,NA,,
+Cancer Survival Rates,,2014,NA,,
+Cancer Survival Rates,,2015,NA,,
+Cancer Survival Rates,,2016,NA,,
+Cancer Survival Rates,,2017,NA,,
+Cancer Survival Rates,,2018,NA,,
+Cancer Survival Rates,,2019,NA,,
+Cancer Survival Rates,,2020,NA,,
+Cancer Survival Rates,,2021,NA,,
+Dementia,Incidence,2009,5100421,,
+Dementia,Incidence,2010,5275999,,
+Dementia,Incidence,2011,5462761,,
+Dementia,Incidence,2012,5665887,,
+Dementia,Incidence,2013,5877641,,
+Dementia,Incidence,2014,6094468,,
+Dementia,Incidence,2015,6310572,,
+Dementia,Incidence,2016,6550073,,
+Dementia,Incidence,2017,6794975,,
+Dementia,Incidence,2018,7018467,,
+Dementia,Incidence,2019,7236385,,
+Dementia,Incidence,2020,NA,,
+Dementia,Incidence,2021,NA,,
+Health Expenditure,current expenditure per capita (current US$),2009,874,,
+Health Expenditure,current expenditure per capita (current US$),2010,912,,
+Health Expenditure,current expenditure per capita (current US$),2011,986,,
+Health Expenditure,current expenditure per capita (current US$),2012,996,,
+Health Expenditure,current expenditure per capita (current US$),2013,1012,,
+Health Expenditure,current expenditure per capita (current US$),2014,1035,,
+Health Expenditure,current expenditure per capita (current US$),2015,994,,
+Health Expenditure,current expenditure per capita (current US$),2016,1016,,
+Health Expenditure,current expenditure per capita (current US$),2017,1057,,
+Health Expenditure,current expenditure per capita (current US$),2018,1103,,
+Health Expenditure,current expenditure per capita (current US$),2019,1122,,
+Health Expenditure,current expenditure per capita (current US$),2020,NA,,
+Health Expenditure,current expenditure per capita (current US$),2021,NA,,
+Infant Mortality,mortality per 1000 live births,2009,38.6,%,-25%
+Infant Mortality,mortality per 1000 live births,2010,37.2,%,-25%
+Infant Mortality,mortality per 1000 live births,2011,35.8,%,-25%
+Infant Mortality,mortality per 1000 live births,2012,34.5,%,-25%
+Infant Mortality,mortality per 1000 live births,2013,33.3,%,-25%
+Infant Mortality,mortality per 1000 live births,2014,32.2,%,-25%
+Infant Mortality,mortality per 1000 live births,2015,31.2,%,-25%
+Infant Mortality,mortality per 1000 live births,2016,30.3,%,-25%
+Infant Mortality,mortality per 1000 live births,2017,29.4,%,-25%
+Infant Mortality,mortality per 1000 live births,2018,29,%,-25%
+Infant Mortality,mortality per 1000 live births,2019,28,%,-25%
+Infant Mortality,mortality per 1000 live births,2020,27,%,-25%
+Infant Mortality,mortality per 1000 live births,2021,NA,%,-25%
+Maternal Mortality,No of Maternal Deaths,2009,354000,,
+Maternal Mortality,No of Maternal Deaths,2010,343000,,
+Maternal Mortality,No of Maternal Deaths,2011,334000,,
+Maternal Mortality,No of Maternal Deaths,2012,326000,,
+Maternal Mortality,No of Maternal Deaths,2013,319000,,
+Maternal Mortality,No of Maternal Deaths,2014,313000,,
+Maternal Mortality,No of Maternal Deaths,2015,306000,,
+Maternal Mortality,No of Maternal Deaths,2016,300000,,
+Maternal Mortality,No of Maternal Deaths,2017,295000,,
+Maternal Mortality,No of Maternal Deaths,2018,NA,,
+Maternal Mortality,No of Maternal Deaths,2019,NA,,
+Maternal Mortality,No of Maternal Deaths,2020,NA,,
+Maternal Mortality,No of Maternal Deaths,2021,NA,,
+Renewable Energy,Share of global electricity production,2009,19.1,%,44%
+Renewable Energy,Share of global electricity production,2010,19.4,%,44%
+Renewable Energy,Share of global electricity production,2011,19.8,%,44%
+Renewable Energy,Share of global electricity production,2012,20.6,%,44%
+Renewable Energy,Share of global electricity production,2013,21.5,%,44%
+Renewable Energy,Share of global electricity production,2014,22,%,44%
+Renewable Energy,Share of global electricity production,2015,22.7,%,44%
+Renewable Energy,Share of global electricity production,2016,23.5,%,44%
+Renewable Energy,Share of global electricity production,2017,24.4,%,44%
+Renewable Energy,Share of global electricity production,2018,25,%,44%
+Renewable Energy,Share of global electricity production,2019,26,%,44%
+Renewable Energy,Share of global electricity production,2020,27.9,%,44%
+Renewable Energy,Share of global electricity production,2021,27.9,%,44%
+Renewable Energy,Share of global primary energy,2009,8.57,%,53%
+Renewable Energy,Share of global primary energy,2010,8.81,%,53%
+Renewable Energy,Share of global primary energy,2011,8.99,%,53%
+Renewable Energy,Share of global primary energy,2012,9.42,%,53%
+Renewable Energy,Share of global primary energy,2013,9.860000000000001,%,53%
+Renewable Energy,Share of global primary energy,2014,10.219999999999999,%,53%
+Renewable Energy,Share of global primary energy,2015,10.5,%,53%
+Renewable Energy,Share of global primary energy,2016,10.93,%,53%
+Renewable Energy,Share of global primary energy,2017,11.360000000000001,%,53%
+Renewable Energy,Share of global primary energy,2018,11.739999999999998,%,53%
+Renewable Energy,Share of global primary energy,2019,12.239999999999998,%,53%
+Renewable Energy,Share of global primary energy,2020,13.46,%,53%
+Renewable Energy,Share of global primary energy,2021,13.47,%,53%
+Renewable Energy,Global energy-generating capacity,2009,95,watts per capita,
+Renewable Energy,Global energy-generating capacity,2010,102,watts per capita,
+Renewable Energy,Global energy-generating capacity,2011,110,watts per capita,
+Renewable Energy,Global energy-generating capacity,2012,118,watts per capita,
+Renewable Energy,Global energy-generating capacity,2013,129,watts per capita,
+Renewable Energy,Global energy-generating capacity,2014,142,watts per capita,
+Renewable Energy,Global energy-generating capacity,2015,156,watts per capita,
+Renewable Energy,Global energy-generating capacity,2016,171,watts per capita,
+Renewable Energy,Global energy-generating capacity,2017,188,watts per capita,
+Renewable Energy,Global energy-generating capacity,2018,205,watts per capita,
+Renewable Energy,Global energy-generating capacity,2019,220,watts per capita,
+Renewable Energy,Global energy-generating capacity,2020,246,watts per capita,
+Renewable Energy,Global energy-generating capacity,2021,NA,watts per capita,
+Wind Power,Share of global electricity production,2009,1.36,%,270%
+Wind Power,Share of global electricity production,2010,1.61,%,270%
+Wind Power,Share of global electricity production,2011,1.98,%,270%
+Wind Power,Share of global electricity production,2012,2.32,%,270%
+Wind Power,Share of global electricity production,2013,2.71,%,270%
+Wind Power,Share of global electricity production,2014,2.9299999999999997,%,270%
+Wind Power,Share of global electricity production,2015,3.42,%,270%
+Wind Power,Share of global electricity production,2016,3.86,%,270%
+Wind Power,Share of global electricity production,2017,4.45,%,270%
+Wind Power,Share of global electricity production,2018,4.76,%,270%
+Wind Power,Share of global electricity production,2019,5.25,%,270%
+Wind Power,Share of global electricity production,2020,5.94,%,270%
+Wind Power,Share of global electricity production,2021,6.54,%,270%
+Wind Power,Total Electricity generated from Wind,2009,277,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2010,346,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2011,440,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2012,530,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2013,636,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2014,706,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2015,831,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2016,962,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2017,1140,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2018,1270,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2019,1421,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2020,1596,Terawatt Hours (Twh) per year,361%
+Wind Power,Total Electricity generated from Wind,2021,1862,Terawatt Hours (Twh) per year,361%
+Wind Power,Share of global primary energy production,2009,0.5700000000000001,%,293%
+Wind Power,Share of global primary energy production,2010,0.6799999999999999,%,293%
+Wind Power,Share of global primary energy production,2011,0.8400000000000001,%,293%
+Wind Power,Share of global primary energy production,2012,0.99,%,293%
+Wind Power,Share of global primary energy production,2013,1.1600000000000001,%,293%
+Wind Power,Share of global primary energy production,2014,1.27,%,293%
+Wind Power,Share of global primary energy production,2015,1.47,%,293%
+Wind Power,Share of global primary energy production,2016,1.6700000000000002,%,293%
+Wind Power,Share of global primary energy production,2017,1.93,%,293%
+Wind Power,Share of global primary energy production,2018,2.08,%,293%
+Wind Power,Share of global primary energy production,2019,2.29,%,293%
+Wind Power,Share of global primary energy production,2020,2.68,%,293%
+Wind Power,Share of global primary energy production,2021,2.9499999999999997,%,293%
+Solar Power,Share of global electricity production,2009,0.1,%,1903%
+Solar Power,Share of global electricity production,2010,0.16,%,1903%
+Solar Power,Share of global electricity production,2011,0.29000000000000004,%,1903%
+Solar Power,Share of global electricity production,2012,0.45,%,1903%
+Solar Power,Share of global electricity production,2013,0.59,%,1903%
+Solar Power,Share of global electricity production,2014,0.8200000000000001,%,1903%
+Solar Power,Share of global electricity production,2015,1.05,%,1903%
+Solar Power,Share of global electricity production,2016,1.31,%,1903%
+Solar Power,Share of global electricity production,2017,1.74,%,1903%
+Solar Power,Share of global electricity production,2018,2.16,%,1903%
+Solar Power,Share of global electricity production,2019,2.6,%,1903%
+Solar Power,Share of global electricity production,2020,3.15,%,1903%
+Solar Power,Share of global electricity production,2021,3.63,%,1903%
+Solar Power,Share of global primary energy,2009,0.04,%,2030%
+Solar Power,Share of global primary energy,2010,0.07,%,2030%
+Solar Power,Share of global primary energy,2011,0.13,%,2030%
+Solar Power,Share of global primary energy,2012,0.19,%,2030%
+Solar Power,Share of global primary energy,2013,0.25,%,2030%
+Solar Power,Share of global primary energy,2014,0.35,%,2030%
+Solar Power,Share of global primary energy,2015,0.45,%,2030%
+Solar Power,Share of global primary energy,2016,0.5700000000000001,%,2030%
+Solar Power,Share of global primary energy,2017,0.75,%,2030%
+Solar Power,Share of global primary energy,2018,0.9400000000000001,%,2030%
+Solar Power,Share of global primary energy,2019,1.1400000000000001,%,2030%
+Solar Power,Share of global primary energy,2020,1.42,%,2030%
+Solar Power,Share of global primary energy,2021,1.6300000000000001,%,2030%
+Photovoltaic Solar Power (PV),Cumulative capacity,2009,22844,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2010,40338,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2011,72216,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2012,101745,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2013,137227,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2014,175617,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2015,223204,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2016,295229,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2017,390207,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2018,483012,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2019,584686,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2020,710281,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Cumulative capacity,2021,843086,Megawatts (MW),1661%
+Photovoltaic Solar Power (PV),Installation Cost,2009,NA,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2010,4808,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2011,4104,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2012,3124,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2013,2742,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2014,2478,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2015,1887,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2016,1717,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2017,1483,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2018,1267,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2019,1046,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2020,916,$/KWh,-81%
+Photovoltaic Solar Power (PV),Installation Cost,2021,857,$/KWh,-81%
+Solar Power PV Generation Cost,,2009,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2010,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2011,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2012,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2013,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2014,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2015,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2016,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2017,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2018,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2019,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2020,NA,$ cents per KWh,
+Solar Power PV Generation Cost,,2021,4.8,$ cents per KWh,
+Renewables,New Investment,2009,195,$USD billions,
+Renewables,New Investment,2010,271,$USD billions,
+Renewables,New Investment,2011,323,$USD billions,
+Renewables,New Investment,2012,290,$USD billions,
+Renewables,New Investment,2013,267,$USD billions,
+Renewables,New Investment,2014,328,$USD billions,
+Renewables,New Investment,2015,356,$USD billions,
+Renewables,New Investment,2016,344,$USD billions,
+Renewables,New Investment,2017,392,$USD billions,
+Renewables,New Investment,2018,362,$USD billions,
+Renewables,New Investment,2019,363,$USD billions,
+Renewables,New Investment,2020,NA,$USD billions,
+Renewables,New Investment,2021,NA,$USD billions,
+Nuclear Power,as % of global electricity production,2009,13.3,,-22%
+Nuclear Power,as % of global electricity production,2010,12.8,,-22%
+Nuclear Power,as % of global electricity production,2011,11.9,,-22%
+Nuclear Power,as % of global electricity production,2012,10.8,,-22%
+Nuclear Power,as % of global electricity production,2013,10.6,,-22%
+Nuclear Power,as % of global electricity production,2014,10.6,,-22%
+Nuclear Power,as % of global electricity production,2015,10.6,,-22%
+Nuclear Power,as % of global electricity production,2016,10.5,,-22%
+Nuclear Power,as % of global electricity production,2017,10.3,,-22%
+Nuclear Power,as % of global electricity production,2018,10.1,,-22%
+Nuclear Power,as % of global electricity production,2019,10.3,,-22%
+Nuclear Power,as % of global electricity production,2020,10,,-22%
+Nuclear Power,as % of global electricity production,2021,9.8,,-22%
+Natural Gas,as % of global electricity production,2009,22,,4%
+Natural Gas,as % of global electricity production,2010,22.7,,4%
+Natural Gas,as % of global electricity production,2011,22.2,,4%
+Natural Gas,as % of global electricity production,2012,23,,4%
+Natural Gas,as % of global electricity production,2013,21.9,,4%
+Natural Gas,as % of global electricity production,2014,21.9,,4%
+Natural Gas,as % of global electricity production,2015,23.1,,4%
+Natural Gas,as % of global electricity production,2016,23.5,,4%
+Natural Gas,as % of global electricity production,2017,23.2,,4%
+Natural Gas,as % of global electricity production,2018,23.3,,4%
+Natural Gas,as % of global electricity production,2019,23.7,,4%
+Natural Gas,as % of global electricity production,2020,23.7,,4%
+Natural Gas,as % of global electricity production,2021,22.9,,4%
+Oil,as % of global electricity production,2009,4.9,,-43%
+Oil,as % of global electricity production,2010,4.4,,-43%
+Oil,as % of global electricity production,2011,4.7,,-43%
+Oil,as % of global electricity production,2012,5,,-43%
+Oil,as % of global electricity production,2013,4.6,,-43%
+Oil,as % of global electricity production,2014,4.3,,-43%
+Oil,as % of global electricity production,2015,4.2,,-43%
+Oil,as % of global electricity production,2016,3.8,,-43%
+Oil,as % of global electricity production,2017,3.4,,-43%
+Oil,as % of global electricity production,2018,2.9,,-43%
+Oil,as % of global electricity production,2019,2.6,,-43%
+Oil,as % of global electricity production,2020,2.5,,-43%
+Oil,as % of global electricity production,2021,2.5,,-43%
+Coal,as % of global electricity production,2009,40,,-12%
+Coal,as % of global electricity production,2010,40,,-12%
+Coal,as % of global electricity production,2011,40.8,,-12%
+Coal,as % of global electricity production,2012,39.9,,-12%
+Coal,as % of global electricity production,2013,40.8,,-12%
+Coal,as % of global electricity production,2014,40.6,,-12%
+Coal,as % of global electricity production,2015,38.7,,-12%
+Coal,as % of global electricity production,2016,37.8,,-12%
+Coal,as % of global electricity production,2017,37.9,,-12%
+Coal,as % of global electricity production,2018,37.9,,-12%
+Coal,as % of global electricity production,2019,36.5,,-12%
+Coal,as % of global electricity production,2020,35.1,,-12%
+Coal,as % of global electricity production,2021,36,,-12%
+Extreme Poverty,% not in extreme poverty,2009,NA,%,
+Extreme Poverty,% not in extreme poverty,2010,83.69,%,
+Extreme Poverty,% not in extreme poverty,2011,85.86999999999999,%,
+Extreme Poverty,% not in extreme poverty,2012,87.26,%,
+Extreme Poverty,% not in extreme poverty,2013,NA,%,
+Extreme Poverty,% not in extreme poverty,2014,NA,%,
+Extreme Poverty,% not in extreme poverty,2015,90.39,%,
+Extreme Poverty,% not in extreme poverty,2016,NA,%,
+Extreme Poverty,% not in extreme poverty,2017,NA,%,
+Extreme Poverty,% not in extreme poverty,2018,91.4,%,
+Extreme Poverty,% not in extreme poverty,2019,NA,%,
+Extreme Poverty,% not in extreme poverty,2020,NA,%,
+Extreme Poverty,% not in extreme poverty,2021,NA,%,
+Access to Electricity,% of global population,2009,83.2,%,8%
+Access to Electricity,% of global population,2010,83.5,%,8%
+Access to Electricity,% of global population,2011,82.5,%,8%
+Access to Electricity,% of global population,2012,85,%,8%
+Access to Electricity,% of global population,2013,85.2,%,8%
+Access to Electricity,% of global population,2014,85.7,%,8%
+Access to Electricity,% of global population,2015,87,%,8%
+Access to Electricity,% of global population,2016,87.4,%,8%
+Access to Electricity,% of global population,2017,88.9,%,8%
+Access to Electricity,% of global population,2018,NA,%,8%
+Access to Electricity,% of global population,2019,NA,%,8%
+Access to Electricity,% of global population,2020,90.5,%,8%
+Access to Electricity,% of global population,2021,NA,%,8%
+Access to Internet,% of global population,2009,26,%,107%
+Access to Internet,% of global population,2010,29,%,107%
+Access to Internet,% of global population,2011,31,%,107%
+Access to Internet,% of global population,2012,34,%,107%
+Access to Internet,% of global population,2013,36,%,107%
+Access to Internet,% of global population,2014,38,%,107%
+Access to Internet,% of global population,2015,40,%,107%
+Access to Internet,% of global population,2016,43,%,107%
+Access to Internet,% of global population,2017,46,%,107%
+Access to Internet,% of global population,2018,49,%,107%
+Access to Internet,% of global population,2019,54,%,107%
+Access to Internet,% of global population,2020,60,%,107%
+Access to Internet,% of global population,2021,NA,%,107%
+People Using At Least Basic Drinking Water,,2009,85.7,%,4%
+People Using At Least Basic Drinking Water,,2010,86.2,%,4%
+People Using At Least Basic Drinking Water,,2011,86.5,%,4%
+People Using At Least Basic Drinking Water,,2012,86.9,%,4%
+People Using At Least Basic Drinking Water,,2013,87.4,%,4%
+People Using At Least Basic Drinking Water,,2014,87.8,%,4%
+People Using At Least Basic Drinking Water,,2015,88.2,%,4%
+People Using At Least Basic Drinking Water,,2016,88.6,%,4%
+People Using At Least Basic Drinking Water,,2017,88.9,%,4%
+People Using At Least Basic Drinking Water,,2018,89.3,%,4%
+People Using At Least Basic Drinking Water,,2019,89.7,%,4%
+People Using At Least Basic Drinking Water,,2020,90,%,4%
+People Using At Least Basic Drinking Water,,2021,NA,%,4%
+Access to safely managed Sanitation,% of global population,2009,38.5,%,35%
+Access to safely managed Sanitation,% of global population,2010,40,%,35%
+Access to safely managed Sanitation,% of global population,2011,41.3,%,35%
+Access to safely managed Sanitation,% of global population,2012,42.8,%,35%
+Access to safely managed Sanitation,% of global population,2013,44.2,%,35%
+Access to safely managed Sanitation,% of global population,2014,45.7,%,35%
+Access to safely managed Sanitation,% of global population,2015,47.1,%,35%
+Access to safely managed Sanitation,% of global population,2016,48.6,%,35%
+Access to safely managed Sanitation,% of global population,2017,50.1,%,35%
+Access to safely managed Sanitation,% of global population,2018,51.6,%,35%
+Access to safely managed Sanitation,% of global population,2019,53,%,35%
+Access to safely managed Sanitation,% of global population,2020,54,%,35%
+Access to safely managed Sanitation,% of global population,2021,NA,%,35%
+Life Expectancy,life expectancy at birth,2009,69.8,years,3%
+Life Expectancy,life expectancy at birth,2010,70.1,years,3%
+Life Expectancy,life expectancy at birth,2011,70.5,years,3%
+Life Expectancy,life expectancy at birth,2012,70.9,years,3%
+Life Expectancy,life expectancy at birth,2013,71.2,years,3%
+Life Expectancy,life expectancy at birth,2014,71.6,years,3%
+Life Expectancy,life expectancy at birth,2015,71.8,years,3%
+Life Expectancy,life expectancy at birth,2016,72.1,years,3%
+Life Expectancy,life expectancy at birth,2017,72.3,years,3%
+Life Expectancy,life expectancy at birth,2018,72.6,years,3%
+Life Expectancy,life expectancy at birth,2019,72.8,years,3%
+Life Expectancy,life expectancy at birth,2020,72,years,3%
+Life Expectancy,life expectancy at birth,2021,71,years,3%
+Hunger,prevalence of undernourishment (% of population),2009,9.8,%,8%
+Hunger,prevalence of undernourishment (% of population),2010,8.6,%,8%
+Hunger,prevalence of undernourishment (% of population),2011,8.3,%,8%
+Hunger,prevalence of undernourishment (% of population),2012,8.2,%,8%
+Hunger,prevalence of undernourishment (% of population),2013,7.9,%,8%
+Hunger,prevalence of undernourishment (% of population),2014,7.8,%,8%
+Hunger,prevalence of undernourishment (% of population),2015,8,%,8%
+Hunger,prevalence of undernourishment (% of population),2016,7.8,%,8%
+Hunger,prevalence of undernourishment (% of population),2017,7.6,%,8%
+Hunger,prevalence of undernourishment (% of population),2018,7.7,%,8%
+Hunger,prevalence of undernourishment (% of population),2019,8,%,8%
+Hunger,prevalence of undernourishment (% of population),2020,9.3,%,8%
+Hunger,prevalence of undernourishment (% of population),2021,NA,%,8%
+Air Pollution,share exposed to air pollution above WHO limits,2009,NA,%,
+Air Pollution,share exposed to air pollution above WHO limits,2010,95.1,%,
+Air Pollution,share exposed to air pollution above WHO limits,2011,95.8,%,
+Air Pollution,share exposed to air pollution above WHO limits,2012,94.5,%,
+Air Pollution,share exposed to air pollution above WHO limits,2013,93.7,%,
+Air Pollution,share exposed to air pollution above WHO limits,2014,92.7,%,
+Air Pollution,share exposed to air pollution above WHO limits,2015,92.6,%,
+Air Pollution,share exposed to air pollution above WHO limits,2016,91.3,%,
+Air Pollution,share exposed to air pollution above WHO limits,2017,91.3,%,
+Air Pollution,share exposed to air pollution above WHO limits,2018,NA,%,
+Air Pollution,share exposed to air pollution above WHO limits,2019,NA,%,
+Air Pollution,share exposed to air pollution above WHO limits,2020,NA,%,
+Air Pollution,share exposed to air pollution above WHO limits,2021,NA,%,
+Road Safety,Road traffic death rate,2009,NA,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2010,18.3,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2011,18.2,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2012,18.2,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2013,18,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2014,17.5,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2015,17.2,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2016,17,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2017,16.9,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2018,16.7,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2019,16.7,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2020,16.7,"per 100,000 population",-9%
+Road Safety,Road traffic death rate,2021,NA,"per 100,000 population",-9%
+Happy Planet Index,Average Happy Planet Index,2009,44,,6%
+Happy Planet Index,Average Happy Planet Index,2010,43.6,,6%
+Happy Planet Index,Average Happy Planet Index,2011,44,,6%
+Happy Planet Index,Average Happy Planet Index,2012,44.1,,6%
+Happy Planet Index,Average Happy Planet Index,2013,44,,6%
+Happy Planet Index,Average Happy Planet Index,2014,44.6,,6%
+Happy Planet Index,Average Happy Planet Index,2015,44.3,,6%
+Happy Planet Index,Average Happy Planet Index,2016,44.5,,6%
+Happy Planet Index,Average Happy Planet Index,2017,44.3,,6%
+Happy Planet Index,Average Happy Planet Index,2018,44.2,,6%
+Happy Planet Index,Average Happy Planet Index,2019,44.1,,6%
+Happy Planet Index,Average Happy Planet Index,2020,46,,6%
+Happy Planet Index,Average Happy Planet Index,2021,NA,,6%
+Literacy,% of global population,2009,84,%,4%
+Literacy,% of global population,2010,84,%,4%
+Literacy,% of global population,2011,84,%,4%
+Literacy,% of global population,2012,85,%,4%
+Literacy,% of global population,2013,85,%,4%
+Literacy,% of global population,2014,85,%,4%
+Literacy,% of global population,2015,86,%,4%
+Literacy,% of global population,2016,86,%,4%
+Literacy,% of global population,2017,86,%,4%
+Literacy,% of global population,2018,86,%,4%
+Literacy,% of global population,2019,86,%,4%
+Literacy,% of global population,2020,87,%,4%
+Literacy,% of global population,2021,NA,%,4%
+Human Development Index,HDI,2009,0.69,,5%
+Human Development Index,HDI,2010,0.697,,5%
+Human Development Index,HDI,2011,0.704,,5%
+Human Development Index,HDI,2012,0.709,,5%
+Human Development Index,HDI,2013,0.714,,5%
+Human Development Index,HDI,2014,0.72,,5%
+Human Development Index,HDI,2015,0.724,,5%
+Human Development Index,HDI,2016,0.729,,5%
+Human Development Index,HDI,2017,0.733,,5%
+Human Development Index,HDI,2018,0.736,,5%
+Human Development Index,HDI,2019,0.739,,5%
+Human Development Index,HDI,2020,0.735,,5%
+Human Development Index,HDI,2021,0.732,,5%
+Global Literacy Rate,,2009,83.6,,3%
+Global Literacy Rate,,2010,84.02,,3%
+Global Literacy Rate,,2011,84.3,,3%
+Global Literacy Rate,,2012,84.7,,3%
+Global Literacy Rate,,2013,84.9,,3%
+Global Literacy Rate,,2014,85.4,,3%
+Global Literacy Rate,,2015,85.5,,3%
+Global Literacy Rate,,2016,86,,3%
+Global Literacy Rate,,2017,86.2,,3%
+Global Literacy Rate,,2018,86.3,,3%
+Global Literacy Rate,,2019,86.5,,3%
+Global Literacy Rate,,2020,86.7,,3%
+Global Literacy Rate,,2021,NA,,3%
+Global Female Adult Literacy Rate,,2009,79.1,%,
+Global Female Adult Literacy Rate,,2010,79.8,%,
+Global Female Adult Literacy Rate,,2011,80.2,%,
+Global Female Adult Literacy Rate,,2012,80.7,%,
+Global Female Adult Literacy Rate,,2013,80.9,%,
+Global Female Adult Literacy Rate,,2014,81.5,%,
+Global Female Adult Literacy Rate,,2015,81.8,%,
+Global Female Adult Literacy Rate,,2016,82.3,%,
+Global Female Adult Literacy Rate,,2017,82.6,%,
+Global Female Adult Literacy Rate,,2018,82.7,%,
+Global Female Adult Literacy Rate,,2019,83,%,
+Global Female Adult Literacy Rate,,2020,83.3,%,
+Global Female Adult Literacy Rate,,2021,NA,%,
+Global Male Adult Literacy Rate,,2009,88.19,%,
+Global Male Adult Literacy Rate,,2010,88.25,%,
+Global Male Adult Literacy Rate,,2011,88.36999999999999,%,
+Global Male Adult Literacy Rate,,2012,88.78,%,
+Global Male Adult Literacy Rate,,2013,88.93,%,
+Global Male Adult Literacy Rate,,2014,89.21000000000001,%,
+Global Male Adult Literacy Rate,,2015,89.33,%,
+Global Male Adult Literacy Rate,,2016,89.67999999999999,%,
+Global Male Adult Literacy Rate,,2017,89.8,%,
+Global Male Adult Literacy Rate,,2018,89.78,%,
+Global Male Adult Literacy Rate,,2019,89.93,%,
+Global Male Adult Literacy Rate,,2020,90.06,%,
+Global Male Adult Literacy Rate,,2021,NA,%,
+Gap between Male & Female Adult Literacy,,2009,8.8,,
+Gap between Male & Female Adult Literacy,,2010,8.2,,
+Gap between Male & Female Adult Literacy,,2011,7.7,,
+Gap between Male & Female Adult Literacy,,2012,7.8,,
+Gap between Male & Female Adult Literacy,,2013,7.7,,
+Gap between Male & Female Adult Literacy,,2014,7.5,,
+Gap between Male & Female Adult Literacy,,2015,7.4,,
+Gap between Male & Female Adult Literacy,,2016,7.2,,
+Gap between Male & Female Adult Literacy,,2017,7.4,,
+Gap between Male & Female Adult Literacy,,2018,NA,,
+Gap between Male & Female Adult Literacy,,2019,NA,,
+Gap between Male & Female Adult Literacy,,2020,NA,,
+Gap between Male & Female Adult Literacy,,2021,NA,,
+% of Girls Not in Primary School,% of girls of primary school age,2009,9.77,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2010,9.58,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2011,9.41,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2012,9.29,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2013,9.09,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2014,9.59,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2015,9.870000000000001,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2016,9.719999999999999,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2017,9.7,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2018,9.6,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2019,9.61,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2020,9.56,,0%
+% of Girls Not in Primary School,% of girls of primary school age,2021,NA,,0%
+% of Boys Not in Primary School,% of boys of primary school age,2009,8.28,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2010,8.209999999999999,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2011,8.4,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2012,7.99,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2013,7.6899999999999995,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2014,8.03,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2015,8.18,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2016,7.930000000000001,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2017,7.930000000000001,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2018,7.56,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2019,7.73,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2020,8.01,,-2%
+% of Boys Not in Primary School,% of boys of primary school age,2021,NA,,-2%
+% of Children Not in Primary School,% of kids of primary school age,2009,9,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2010,8.870000000000001,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2011,8.89,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2012,8.62,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2013,8.370000000000001,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2014,8.78,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2015,8.99,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2016,8.8,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2017,8.78,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2018,8.55,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2019,8.639999999999999,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2020,8.76,,-1%
+% of Children Not in Primary School,% of kids of primary school age,2021,NA,,-1%
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2009,88.6,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2010,88.6,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2011,88.7,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2012,89,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2013,89,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2014,89.2,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2015,89.2,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2016,89.4,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2017,89.3,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2018,89.4,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2019,NA,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2020,NA,%,
+School Enrollment,net primary school enrolment (% children of official school age who are enrolled in school to the population of the corresponding official school age(,2021,NA,%,
+Girls Secondary School Enrollment,%,2009,60.7,,
+Girls Secondary School Enrollment,%,2010,62.1,,
+Girls Secondary School Enrollment,%,2011,63.3,,
+Girls Secondary School Enrollment,%,2012,63.8,,
+Girls Secondary School Enrollment,%,2013,64.8,,
+Girls Secondary School Enrollment,%,2014,65.7,,
+Girls Secondary School Enrollment,%,2015,65.8,,
+Girls Secondary School Enrollment,%,2016,65.8,,
+Girls Secondary School Enrollment,%,2017,66.3,,
+Girls Secondary School Enrollment,%,2018,66.3,,
+Girls Secondary School Enrollment,%,2019,NA,,
+Girls Secondary School Enrollment,%,2020,NA,,
+Girls Secondary School Enrollment,%,2021,NA,,
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2009,11.58,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2010,11.729999999999999,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2011,11.96,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2012,12.11,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2013,12.26,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2014,12.42,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2015,12.53,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2016,12.69,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2017,12.709999999999999,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2018,12.709999999999999,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2019,12.729999999999999,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2020,12.8,years,9%
+Expected Years of Schooling,The number of years a child of school entrance age can expect to receive if thecurrent age-specific enrollment rates persist throughout the child’s years ofschooling.,2021,12.78,years,9%
+Women's MPs,% of representatives,2009,19.02,,34%
+Women's MPs,% of representatives,2010,19.16,,34%
+Women's MPs,% of representatives,2011,19.830000000000002,,34%
+Women's MPs,% of representatives,2012,20.759999999999998,,34%
+Women's MPs,% of representatives,2013,21.779999999999998,,34%
+Women's MPs,% of representatives,2014,22.19,,34%
+Women's MPs,% of representatives,2015,22.85,,34%
+Women's MPs,% of representatives,2016,23.1,,34%
+Women's MPs,% of representatives,2017,23.6,,34%
+Women's MPs,% of representatives,2018,24.1,,34%
+Women's MPs,% of representatives,2019,24.64,,34%
+Women's MPs,% of representatives,2020,25.58,,34%
+Women's MPs,% of representatives,2021,26.130000000000003,,34%
+Electric Cars,as % of new sales,2009,NA,,
+Electric Cars,as % of new sales,2010,0,,
+Electric Cars,as % of new sales,2011,0.11,,
+Electric Cars,as % of new sales,2012,0.19,,
+Electric Cars,as % of new sales,2013,0.31,,
+Electric Cars,as % of new sales,2014,0.41000000000000003,,
+Electric Cars,as % of new sales,2015,0.6799999999999999,,
+Electric Cars,as % of new sales,2016,0.89,,
+Electric Cars,as % of new sales,2017,1.3900000000000001,,
+Electric Cars,as % of new sales,2018,2.25,,
+Electric Cars,as % of new sales,2019,2.66,,
+Electric Cars,as % of new sales,2020,4.26,,
+Electric Cars,as % of new sales,2021,NA,,
+Price of Lithium Ion Battery Pack,volume weighted average,2009,NA,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2010,1191,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2011,924,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2012,726,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2013,668,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2014,592,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2015,384,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2016,295,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2017,221,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2018,181,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2019,157,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2020,137,$USD 2020,-88%
+Price of Lithium Ion Battery Pack,volume weighted average,2021,NA,$USD 2020,-88%
+Trees Planted / reforestation,,2009,NA,,
+Trees Planted / reforestation,,2010,NA,,
+Trees Planted / reforestation,,2011,NA,,
+Trees Planted / reforestation,,2012,NA,,
+Trees Planted / reforestation,,2013,NA,,
+Trees Planted / reforestation,,2014,NA,,
+Trees Planted / reforestation,,2015,NA,,
+Trees Planted / reforestation,,2016,NA,,
+Trees Planted / reforestation,,2017,NA,,
+Trees Planted / reforestation,,2018,NA,,
+Trees Planted / reforestation,,2019,NA,,
+Trees Planted / reforestation,,2020,NA,,
+Trees Planted / reforestation,,2021,NA,,
+Deforestation,land covered by trees,2009,31.6,%,-1%
+Deforestation,land covered by trees,2010,31.5,%,-1%
+Deforestation,land covered by trees,2011,31.5,%,-1%
+Deforestation,land covered by trees,2012,31.5,%,-1%
+Deforestation,land covered by trees,2013,31.4,%,-1%
+Deforestation,land covered by trees,2014,31.4,%,-1%
+Deforestation,land covered by trees,2015,31.3,%,-1%
+Deforestation,land covered by trees,2016,31.3,%,-1%
+Deforestation,land covered by trees,2017,31.3,%,-1%
+Deforestation,land covered by trees,2018,31.2,%,-1%
+Deforestation,land covered by trees,2019,31.2,%,-1%
+Deforestation,land covered by trees,2020,31.2,%,-1%
+Deforestation,land covered by trees,2021,NA,%,-1%
+Biodiversity,Global living planet index (1970=100%),2009,36.87713,%,
+Biodiversity,Global living planet index (1970=100%),2010,35.2,%,
+Biodiversity,Global living planet index (1970=100%),2011,33.4,%,
+Biodiversity,Global living planet index (1970=100%),2012,32.4,%,
+Biodiversity,Global living planet index (1970=100%),2013,31.7,%,
+Biodiversity,Global living planet index (1970=100%),2014,31.7,%,
+Biodiversity,Global living planet index (1970=100%),2015,31.6,%,
+Biodiversity,Global living planet index (1970=100%),2016,31.1,%,
+Biodiversity,Global living planet index (1970=100%),2017,30.9,%,
+Biodiversity,Global living planet index (1970=100%),2018,30.9,%,
+Biodiversity,Global living planet index (1970=100%),2019,NA,%,
+Biodiversity,Global living planet index (1970=100%),2020,NA,%,
+Biodiversity,Global living planet index (1970=100%),2021,NA,%,
+Global CO2 emissions,billion t,2009,3.16,,
+Global CO2 emissions,billion t,2010,3.34,,
+Global CO2 emissions,billion t,2011,3.4499999999999997,,
+Global CO2 emissions,billion t,2012,3.5,,
+Global CO2 emissions,billion t,2013,3.53,,
+Global CO2 emissions,billion t,2014,3.56,,
+Global CO2 emissions,billion t,2015,3.56,,
+Global CO2 emissions,billion t,2016,3.55,,
+Global CO2 emissions,billion t,2017,3.61,,
+Global CO2 emissions,billion t,2018,3.68,,
+Global CO2 emissions,billion t,2019,3.71,,
+Global CO2 emissions,billion t,2020,3.53,,
+Global CO2 emissions,billion t,2021,3.71,,
+Methane emissions,million t,2009,7.81,,
+Methane emissions,million t,2010,7.91,,
+Methane emissions,million t,2011,8.05,,
+Methane emissions,million t,2012,8.139999999999999,,
+Methane emissions,million t,2013,8.11,,
+Methane emissions,million t,2014,8.27,,
+Methane emissions,million t,2015,8.32,,
+Methane emissions,million t,2016,8.229999999999999,,
+Methane emissions,million t,2017,8.33,,
+Methane emissions,million t,2018,8.49,,
+Methane emissions,million t,2019,8.61,,
+Methane emissions,million t,2020,NA,,
+Methane emissions,million t,2021,NA,,
+Foreign Aid,net official development assistance,2009,1.24,$USD bn,52%
+Foreign Aid,net official development assistance,2010,1.28,$USD bn,52%
+Foreign Aid,net official development assistance,2011,1.3900000000000001,$USD bn,52%
+Foreign Aid,net official development assistance,2012,1.33,$USD bn,52%
+Foreign Aid,net official development assistance,2013,1.51,$USD bn,52%
+Foreign Aid,net official development assistance,2014,1.61,$USD bn,52%
+Foreign Aid,net official development assistance,2015,1.46,$USD bn,52%
+Foreign Aid,net official development assistance,2016,1.58,$USD bn,52%
+Foreign Aid,net official development assistance,2017,1.6400000000000001,$USD bn,52%
+Foreign Aid,net official development assistance,2018,1.6600000000000001,$USD bn,52%
+Foreign Aid,net official development assistance,2019,1.62,$USD bn,52%
+Foreign Aid,net official development assistance,2020,1.94,$USD bn,52%
+Foreign Aid,net official development assistance,2021,NA,$USD bn,52%
+GDP per capita,$USD,2009,13383,,17%
+GDP per capita,$USD,2010,13892,,17%
+GDP per capita,$USD,2011,14260,,17%
+GDP per capita,$USD,2012,14528,,17%
+GDP per capita,$USD,2013,14824,,17%
+GDP per capita,$USD,2014,15149,,17%
+GDP per capita,$USD,2015,15480,,17%
+GDP per capita,$USD,2016,15803,,17%
+GDP per capita,$USD,2017,16211,,17%
+GDP per capita,$USD,2018,16607,,17%
+GDP per capita,$USD,2019,16897,,17%
+GDP per capita,$USD,2020,16185,,17%
+GDP per capita,$USD,2021,NA,,17%
+GDP growth per capita,%,2009,-2.5,,-232%
+GDP growth per capita,%,2010,3.25,,-232%
+GDP growth per capita,%,2011,2.13,,-232%
+GDP growth per capita,%,2012,1.43,,-232%
+GDP growth per capita,%,2013,1.61,,-232%
+GDP growth per capita,%,2014,1.8900000000000001,,-232%
+GDP growth per capita,%,2015,1.96,,-232%
+GDP growth per capita,%,2016,1.6400000000000001,,-232%
+GDP growth per capita,%,2017,2.22,,-232%
+GDP growth per capita,%,2018,2.14,,-232%
+GDP growth per capita,%,2019,1.52,,-232%
+GDP growth per capita,%,2020,-4.29,,-232%
+GDP growth per capita,%,2021,NA,,-232%
+Economic Freedom,,2009,59.5,,4%
+Economic Freedom,,2010,59.4,,4%
+Economic Freedom,,2011,59.7,,4%
+Economic Freedom,,2012,59.5,,4%
+Economic Freedom,,2013,59.6,,4%
+Economic Freedom,,2014,60.3,,4%
+Economic Freedom,,2015,60.4,,4%
+Economic Freedom,,2016,60.7,,4%
+Economic Freedom,,2017,60.9,,4%
+Economic Freedom,,2018,61.1,,4%
+Economic Freedom,,2019,60.8,,4%
+Economic Freedom,,2020,61.6,,4%
+Economic Freedom,,2021,60,,4%
+Economic Growth,GDP,2009,6.2,2015 USD,26%
+Economic Growth,GDP,2010,6.49,2015 USD,26%
+Economic Growth,GDP,2011,6.7,2015 USD,26%
+Economic Growth,GDP,2012,6.88,2015 USD,26%
+Economic Growth,GDP,2013,7.08,2015 USD,26%
+Economic Growth,GDP,2014,7.29,2015 USD,26%
+Economic Growth,GDP,2015,7.52,2015 USD,26%
+Economic Growth,GDP,2016,7.73,2015 USD,26%
+Economic Growth,GDP,2017,7.99,2015 USD,26%
+Economic Growth,GDP,2018,8.25,2015 USD,26%
+Economic Growth,GDP,2019,8.47,2015 USD,26%
+Economic Growth,GDP,2020,8.19,2015 USD,26%
+Economic Growth,GDP,2021,8.67,2015 USD,26%
